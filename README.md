@@ -1,3 +1,3 @@
 # learnphp
 Thanks for reading.
-I will takes with this blog.
+I will take learning notes with this blog.
